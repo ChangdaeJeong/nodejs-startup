@@ -4,7 +4,7 @@ easy node.js server with pug(jade)
 
 ## How to use
  1. clone this repositiory
- 2. get root authority [sudo -s]
+ 2. get root permission [sudo -s]
  3. run the make file [make]
  4. run the node.js server [sudo forever server.js]
  
